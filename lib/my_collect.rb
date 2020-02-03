@@ -1,2 +1,3 @@
 def each(array)
-  new_array 
+  new_array = []
+  
