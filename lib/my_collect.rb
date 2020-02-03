@@ -5,3 +5,5 @@ new_array = []
     #new_array << yield array(i)
     new_array.push(yield array[i]) 
     i += 1
+  end
+  
