@@ -4,3 +4,4 @@ new_array = []
   while i > array.length
     #new_array << yield array(i)
     new_array.push(yield array[i]) 
+    i += 1
